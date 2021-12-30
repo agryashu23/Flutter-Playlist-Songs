@@ -1,0 +1,16 @@
+import 'package:flutter/material.dart';
+
+class FormModel extends ChangeNotifier {
+  List items = [{"title":"UpTown","singer":"Henry","image": "https://img.mensxp."
+      "com/media/content/2020/Apr/Leading-B-Wood-singers-Who-Lost-On-Reality-Shows6_"
+      "5ea7d4c7225c1.jpeg","url":"https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",}];
+
+void player(){
+    play = !play;
+    notifyListeners();
+  }
+  void addLikes(title,singer,image,url){
+    likes.add({"title":title,"singer":singer,"image":image,"url":url});
+    notifyListeners();
+  }
+}
