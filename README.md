@@ -1,6 +1,15 @@
 
 ## Getting Started
-Add the plugin (pub coming soon):
+
+Basic UI Flutter App:-
+
+Flutter Music Player with two Tabs for Songs List and PlayList.
+
+Add To Playlist Function,
+
+Used Provider for faster usage of data.
+
+
 
 
 ## Deployment
@@ -55,7 +64,7 @@ void playMusic(String url) async {
 
 ## Screenshots
 
-![WhatsApp Image 2022-01-01 at 8 56 29 PM](https://user-images.githubusercontent.com/60836876/147854026-9ea60916-35f0-4296-8177-4b6a66519ea1.jpeg)
+![songs](https://user-images.githubusercontent.com/60836876/147854117-5417de4e-ec92-4732-8853-d6180f213cf4.jpeg)
 
 
 
@@ -63,7 +72,13 @@ void playMusic(String url) async {
 
 
 
-![WhatsApp Image 2022-01-01 at 8 56 29 PM (1)](https://user-images.githubusercontent.com/60836876/147854029-6f8b44a8-0ae9-4046-a0f8-9c029bcd6e92.jpeg)
+![playlist](https://user-images.githubusercontent.com/60836876/147854121-cfc627a1-401c-45c3-9f37-957e6402e33b.jpeg)
+
+
+
+
+
+
 
 
 
